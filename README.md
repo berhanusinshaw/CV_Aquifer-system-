@@ -1,7 +1,9 @@
 Notes on Texture Modeling in the Central Valley
-Overview of the Central Valley
+
+
 The Central Valley is a large structural trough filled with sediments ranging in age from Jurassic to Holocene.
 Depths:
+
 San Joaquin Valley (southern two-thirds): Up to 3 miles.
 Sacramento Valley (northern one-third): Up to 6 miles.
 Freshwater is mostly contained in the upper post-Eocene continental rocks and deposits with thicknesses ranging from 1,000 to 3,000 feet.
